@@ -20,7 +20,7 @@ O aluno Lucas Dionísio fez a página do carrinho.
 
 # Links
 
-https://arturcorrea1.github.io/BiluStore/
+https://marianomattev.github.io/Mercado-m-stico/
 
 Vídeo de apresentação do projeto: 
 
